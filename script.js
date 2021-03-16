@@ -132,3 +132,4 @@ function getCountryData(country) {
 btn.addEventListener('click', function () {
     getCountryData(`cote d'ivoire`);
 })
+
